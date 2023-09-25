@@ -5,10 +5,7 @@ module.exports = {
     version: "1.1.5",
     description: "FUT Trade Enhancer",
     author: "CK Algos",
-    match: [
-      "https://www.ea.com/*/fifa/ultimate-team/web-app/*",
-      "https://www.ea.com/fifa/ultimate-team/web-app/*",
-    ],
+    match: ["https://www.ea.com/ea-sports-fc/ultimate-team/web-app/*"],
     grant: ["GM_xmlhttpRequest", "GM_download"],
     connect: ["ea.com", "ea2.com", "futbin.com", "amazonaws.com"],
     updateURL:
