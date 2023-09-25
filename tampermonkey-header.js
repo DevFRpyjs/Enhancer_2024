@@ -7,10 +7,6 @@ module.exports = {
     author: "DevFRpyjs",
     match: ["https://www.ea.com/ea-sports-fc/ultimate-team/web-app/*"],
     grant: ["GM_xmlhttpRequest", "GM_download"],
-    connect: ["ea.com", "ea2.com", "futbin.com", "amazonaws.com"],
-    updateURL:
-      "https://github.com/chithakumar13/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
-    downloadURL:
-      "https://github.com/chithakumar13/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+    connect: ["ea.com", "ea2.com", "futbin.com", "amazonaws.com"]
   },
 };
