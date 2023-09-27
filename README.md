@@ -1,10 +1,12 @@
 # fut-trade-enhancer
+<p align="center">
+<a center href="https://t.me/FUT_FR">
+  <img src="https://img.shields.io/badge/Rejoignez%20notre%20groupe-Telegram-blue?style=for-the-badge&logo=telegram" alt="Rejoignez notre groupe Telegram">
+</a>
+</p>
+<hr>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Total Downloads](https://img.shields.io/github/downloads/chithakumar13/fut-trade-enhancer/total.svg)]()
+[![Total Downloads](https://img.shields.io/github/downloads/DevFRpyjs/Enhancer_2024/total.svg)]()
 
 <p align="center"> 
   <h3 align="center">Fifa Trade Enhancer</h3>
